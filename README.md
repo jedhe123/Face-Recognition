@@ -61,6 +61,11 @@ Modify config.json for custom settings like:
 
 3.detect faces in images
 
+# Project Output #
+
+![{D01F88F3-D619-49A0-AC87-36546079C819}](https://github.com/user-attachments/assets/16be7cfe-c225-4127-b190-3be58cf92d2b)
+
+
 # Contributions #
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
